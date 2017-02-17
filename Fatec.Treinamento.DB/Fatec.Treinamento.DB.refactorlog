@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="86c58755-6927-4c88-936d-6d33d9d2742a" ChangeDateTime="02/01/2017 16:55:28">
+    <Property Name="ElementName" Value="[dbo].[Video].[CodigoYouTube]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Video]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="CodigoYoutube" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="643afb24-322e-4d5d-9493-b09000182eb1" ChangeDateTime="02/15/2017 01:16:14">
+    <Property Name="ElementName" Value="[dbo].[Mensagem].[Re]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Mensagem]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Remetente" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="deca42f1-e6e5-48d7-901b-883160b70c9a" ChangeDateTime="02/15/2017 01:18:11">
+    <Property Name="ElementName" Value="[dbo].[Mensagem].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Mensagem]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="IdUsuario" />
+  </Operation>
+</Operations>

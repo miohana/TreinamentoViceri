@@ -1,0 +1,5 @@
+C:\Users\mikaeri\Source\Workspaces\EstagioViceri\Fatec.Treinamento.Model\bin\Debug\Fatec.Treinamento.Model.dll
+C:\Users\mikaeri\Source\Workspaces\EstagioViceri\Fatec.Treinamento.Model\bin\Debug\Fatec.Treinamento.Model.pdb
+C:\Users\mikaeri\Source\Workspaces\EstagioViceri\Fatec.Treinamento.Model\obj\Debug\Fatec.Treinamento.Model.csprojResolveAssemblyReference.cache
+C:\Users\mikaeri\Source\Workspaces\EstagioViceri\Fatec.Treinamento.Model\obj\Debug\Fatec.Treinamento.Model.dll
+C:\Users\mikaeri\Source\Workspaces\EstagioViceri\Fatec.Treinamento.Model\obj\Debug\Fatec.Treinamento.Model.pdb

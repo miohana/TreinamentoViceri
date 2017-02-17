@@ -1,0 +1,14 @@
+C:\Users\mikaeri\Source\Workspaces\EstagioViceri\Fatec.Treinamento.Testes\bin\Debug\Fatec.Treinamento.Testes.dll.config
+C:\Users\mikaeri\Source\Workspaces\EstagioViceri\Fatec.Treinamento.Testes\bin\Debug\Fatec.Treinamento.Testes.dll
+C:\Users\mikaeri\Source\Workspaces\EstagioViceri\Fatec.Treinamento.Testes\bin\Debug\Fatec.Treinamento.Testes.pdb
+C:\Users\mikaeri\Source\Workspaces\EstagioViceri\Fatec.Treinamento.Testes\bin\Debug\Fatec.Treinamento.Data.dll
+C:\Users\mikaeri\Source\Workspaces\EstagioViceri\Fatec.Treinamento.Testes\bin\Debug\Fatec.Treinamento.Model.dll
+C:\Users\mikaeri\Source\Workspaces\EstagioViceri\Fatec.Treinamento.Testes\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mikaeri\Source\Workspaces\EstagioViceri\Fatec.Treinamento.Testes\bin\Debug\Dapper.dll
+C:\Users\mikaeri\Source\Workspaces\EstagioViceri\Fatec.Treinamento.Testes\bin\Debug\Fatec.Treinamento.Data.pdb
+C:\Users\mikaeri\Source\Workspaces\EstagioViceri\Fatec.Treinamento.Testes\bin\Debug\Fatec.Treinamento.Model.pdb
+C:\Users\mikaeri\Source\Workspaces\EstagioViceri\Fatec.Treinamento.Testes\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\mikaeri\Source\Workspaces\EstagioViceri\Fatec.Treinamento.Testes\bin\Debug\Dapper.xml
+C:\Users\mikaeri\Source\Workspaces\EstagioViceri\Fatec.Treinamento.Testes\obj\Debug\Fatec.Treinamento.Testes.csprojResolveAssemblyReference.cache
+C:\Users\mikaeri\Source\Workspaces\EstagioViceri\Fatec.Treinamento.Testes\obj\Debug\Fatec.Treinamento.Testes.dll
+C:\Users\mikaeri\Source\Workspaces\EstagioViceri\Fatec.Treinamento.Testes\obj\Debug\Fatec.Treinamento.Testes.pdb

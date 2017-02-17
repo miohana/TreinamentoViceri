@@ -1,0 +1,5 @@
+C:\Users\mikaeri\Source\Workspaces\EstagioViceri\Fatec.Treinamento.DB\bin\Debug\Fatec.Treinamento.DB.dacpac
+C:\Users\mikaeri\Source\Workspaces\EstagioViceri\Fatec.Treinamento.DB\bin\Debug\Fatec.Treinamento.DB.dll
+C:\Users\mikaeri\Source\Workspaces\EstagioViceri\Fatec.Treinamento.DB\bin\Debug\Fatec.Treinamento.DB.pdb
+C:\Users\mikaeri\Source\Workspaces\EstagioViceri\Fatec.Treinamento.DB\obj\Debug\Fatec.Treinamento.DB.dll
+C:\Users\mikaeri\Source\Workspaces\EstagioViceri\Fatec.Treinamento.DB\obj\Debug\Fatec.Treinamento.DB.pdb

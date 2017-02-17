@@ -1,0 +1,17 @@
+﻿@model Fatec.Treinamento.Web.Models.ModificaUsuarioViewModel
+@{
+    ViewBag.Title = "Meus Pontos";
+}
+@using (Html.BeginForm("MeusPontos", "Usuario", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+    <h2>Consulta de pontos</h2>
+    <hr /><br /><br /><br />
+    @Html.ValidationSummary("", new { @class = "text-danger" })
+    <h3 style="text-align:center"><b><u>Meus pontos:</u></b> @ViewBag.MeusPontos</h3>
+    <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+    <h4>*Assista aos vídeos para adquirir mais pontos!</h4>
+}
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

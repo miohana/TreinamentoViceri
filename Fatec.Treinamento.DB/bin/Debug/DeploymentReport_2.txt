@@ -1,0 +1,48 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Assunto] (Table)
+       [dbo].[Capitulo] (Table)
+       [dbo].[Curso] (Table)
+       [dbo].[Documento] (Table)
+       [dbo].[Funcionalidade] (Table)
+       [dbo].[Mensagem] (Table)
+       [dbo].[Perfil] (Table)
+       [dbo].[Permissao] (Table)
+       [dbo].[Treinamento] (Table)
+       [dbo].[Treinamento_Capitulo] (Table)
+       [dbo].[Trilha] (Table)
+       [dbo].[Trilha_Curso] (Table)
+       [dbo].[Usuario] (Table)
+       [dbo].[Video] (Table)
+       [dbo].[DF_Curso_DataCriacao] (Default Constraint)
+       [dbo].[DF_Documento_DataCadastro] (Default Constraint)
+       [dbo].[DF_Treinamento_DataInicio] (Default Constraint)
+       [dbo].[DF_Trilha_Ativa] (Default Constraint)
+       [dbo].[DF_Usuario_Ativo] (Default Constraint)
+       [dbo].[FK_Capitulo_Curso] (Foreign Key)
+       [dbo].[FK_Curso_Assunto] (Foreign Key)
+       [dbo].[FK_Curso_Usuario] (Foreign Key)
+       [dbo].[FK_Documento_Curso] (Foreign Key)
+       [dbo].[FK_Mensagem_Usuario] (Foreign Key)
+       [dbo].[FK_Permissao_Funcionalidade] (Foreign Key)
+       [dbo].[FK_Permissao_Perfil] (Foreign Key)
+       [dbo].[FK_Treinamento_Curso] (Foreign Key)
+       [dbo].[FK_Treinamento_Usuario] (Foreign Key)
+       [dbo].[FK_Treinamento_Capitulo_Capitulo] (Foreign Key)
+       [dbo].[FK_Treinamento_Capitulo_Treinamento] (Foreign Key)
+       [dbo].[FK_Trilha_Curso_Curso] (Foreign Key)
+       [dbo].[FK_Trilha_Curso_Trilha] (Foreign Key)
+       [dbo].[FK_Usuario_Perfil] (Foreign Key)
+       [dbo].[FK_Video_Capitulo] (Foreign Key)
+
+** Supporting actions
